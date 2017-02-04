@@ -1,0 +1,28 @@
+How to create list in html? ordered list and unordered list?
+ HTML List Example
+1)An Unordered List:
+Item
+Item
+Item
+Item
+Unordered HTML List
+An unordered list starts with the <ul> tag. Each list item starts with the <li> tag.
+
+2)Unordered HTML List - Choose List Item Marker
+The CSS list-style-type property is used to define the style of the list item marker:
+
+Value	Description
+disc	Sets the list item marker to a bullet (default)
+circle	Sets the list item marker to a circle
+square	Sets the list item marker to a square
+none	The list items will not be marked
+
+3)
+
+
+The list items will be marked with bullets (small black circles) by default:
+An Ordered List:
+1)First item
+2)Second item
+3)Third item
+4)Fourth item
