@@ -1,0 +1,21 @@
+What is version control tool?
+Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later.
+
+What is repository?
+Generically refers to a central place where data is stored and maintained. A repository can be a place where multiple databases or files are located for distribution over a network, or a repository can be a location that is directly accessible to the user without having to travel across a network.
+
+Why do we need to use repository in software development?
+Repository focus on particular information content.
+
+What is Git?
+a version control tool.It allows team to collaborate and work together in an effiecient manner.
+
+What is GitHub?
+is a website that allows you to store your code on the cloud.It is not just cloud storage but a full version control system powered by Git.
+
+What is merge ?
+combining two or more people written code
+
+What is merge conflict?
+if two people modified same line of code then some manual overwriting of code is needed to correct it.
+It needs to manually resolved.
